@@ -27,11 +27,12 @@ nav {
 nav a#brand-logo {
     float: left;
     margin-left: 1.5em;
-    margin-top: 0.5em;
+    margin-top: -0.5em;
     font-weight: bold;
     font-size: 1.5em;
-    color: #f6f6f6;
+    color: #F6F6F6;
 }
+
 nav ul li a {
     color: white;
 }
